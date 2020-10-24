@@ -29,3 +29,6 @@ cara kita bikin branch
    caranya ketikan git checkout master artinya kita master dulu yak 
    baru abis itu ketikan git merge about nanti otomatis akan sama di branch master dan about 
    jangn lupa commit dan push
+
+8. nah ada caranya kita kgga mau blikin ke kode seblumnya 
+   caranya gampang ketikan  git checkout codenya  
