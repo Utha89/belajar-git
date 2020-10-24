@@ -24,3 +24,4 @@ cara kita bikin branch
 3. git branch 
 4. ternyata masih di master posisinya
 5. caranya ketikan git checkout about
+6. nah abis itu sama git add . , git commit -m "Komen" lalu git push -u origin about
