@@ -1,0 +1,17 @@
+1. bikin folder baru exmaple: belajar-git
+2. https://git-scm.com/download/win dan instal
+3. lalu klik kanan git base
+4. inisialisasi dulu dengan cara git init
+5. bikin repo baru di github / new repository
+6. create repository
+7. bikin README.md dengan git add README.md terus error krena bloman ada maka kita ke code . (vscode)
+8. bikin file di dalemnya isi j asal nama file nya README.md 
+9. git add README.md lg jalanin / git add . 
+10. git remote add origin https://github.com/Utha89/belajar-git.git
+11. klo mau cek udah bener beloman caranya git remote -v
+12. git commit -m "first commit" 
+13. git push -u origin master
+ 
+klo ampe muncul 
+unable to create file exists git 
+bisa kita selsasokan dengan cara : rm -f ./.git/index.lock
