@@ -15,3 +15,12 @@
 klo ampe muncul 
 unable to create file exists git 
 bisa kita selsasokan dengan cara : rm -f ./.git/index.lock
+
+
+cara kita bikin branch
+
+1. git branch about
+2. kita cek apakah udah bener klo kita ada di branch nya about 
+3. git branch 
+4. ternyata masih di master posisinya
+5. caranya ketikan git checkout about
