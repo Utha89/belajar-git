@@ -25,3 +25,7 @@ cara kita bikin branch
 4. ternyata masih di master posisinya
 5. caranya ketikan git checkout about
 6. nah abis itu sama git add . , git commit -m "Komen" lalu git push -u origin about
+7. nah misal kan td beda branch gimna yg sebelumnya ada di about berubah juga di master 
+   caranya ketikan git checkout master artinya kita master dulu yak 
+   baru abis itu ketikan git merge about nanti otomatis akan sama di branch master dan about 
+   jangn lupa commit dan push
