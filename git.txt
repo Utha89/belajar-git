@@ -30,5 +30,5 @@ cara kita bikin branch
    baru abis itu ketikan git merge about nanti otomatis akan sama di branch master dan about 
    jangn lupa commit dan push
 
-8. nah ada caranya kita kgga mau blikin ke kode seblumnya 
+8. nah ada caranya kita  mau blikin ke kode seblumnya 
    caranya gampang ketikan  git checkout codenya  
